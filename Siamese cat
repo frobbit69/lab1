@@ -1,0 +1,112 @@
+
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0">
+<!-- 	<link rel="stylesheet" href="resume.css"> -->
+</head>
+
+<body>
+	<div class="full">
+		<div class="left">
+			<div class="image">
+				<img src="https://cf.ltkcdn.net/cats/cat-breeds/images/orig/339271-1600x1066-siamese-cat-610702610.jpg"
+					alt="siamese"
+					style="width:100px;height:100px;">
+			</div>
+			<div class="Intro">
+				<h2>Siamese Cat</h2>
+				<p><b>Origin:</b>Thailand</p>
+				<p><b>Thai: </b>แมวไทย</p>
+			</div>
+			<div class="History">
+				<h2>History</h2>
+				<p>
+        The pointed cat known in the West as "Siamese", 
+        recognised for its distinctive markings, is one of several breeds of cats from Siam described and illustrated in manuscripts called 
+        "Tamra Maew" (Cat Poems). The "Tamra Maew" is estimated to have been written from the 14th to the 18th century.[5] In 1878, U.S. President Rutherford B. 
+        Hayes received the first documented Siamese to reach the United States. The cat, named "Siam," was sent from Bangkok to the American Consul.[6] In 1884, 
+        the British Consul-General in Bangkok, Edward Blencowe Gould (1847–1916),[7] brought a breeding pair of the cats, Pho and Mia (พ่อและแม่), back to Britain as 
+        a gift for his sister, Lilian Jane Gould (who, married in 1895 as Lilian Jane Veley,[8] went on to co-found the Siamese Cat Club in 1901). In 1885, Gould's UK 
+        cats Pho and Mia produced three Siamese kittens—Duen Ngai (เดือนหงาย), Kalohom (กลาโหม), and Khromata (กรมท่า)—who were shown with their parents that same year 
+        at London's Crystal Palace Show. Their appearance and behaviour attracted attention, but all three of the kittens died soon after the show, their cause of death 
+        not documented.
+        </p>
+			</div>
+
+			<div class="Appearance">
+				<h2>Appearance</h2>
+				<ul>
+					<li>triangular head</li>
+					<li>muscular body</li>
+          <li>elongated</li>
+          <li>tubular</li>
+          <li>almond-shaped eye</li>
+				</ul>
+			</div>
+
+			<div class="Potential health problem">
+				<h2>Potential health problem</h2>
+				<ul>
+					<li>Majority of deaths were caused by neoplasms, mainly mammary tumours.</li>
+					<li>Higher rate of morbidity</li>
+					<li>neoplastic</li>
+					<li>gastrointestinal problems</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="right">
+			<div class="name">
+				<h1>Breeds derived from the Siamese</h1>
+			</div>
+
+			<div class="title">
+          <p>Balinese</p>
+			  <div class="image">
+				  <img src="https://www.zooplus.ie/magazine/wp-content/uploads/2021/10/Balinese-cat-1.jpeg"
+					alt="Balinese"
+					style="width:100px;height:100px;">
+	  		</div>
+
+          <p>Birman</p>
+			  <div class="image">
+				  <img src="https://www.loveyourcat.com/wp-content/uploads/2023/01/Birman-Cat-walking-on-white-background.jpg"
+					alt="Birman"
+					style="width:100px;height:100px;">
+	  		</div>
+
+          <p>Burmese</p>
+			  <div class="image">
+				  <img src="https://www.hepper.com/wp-content/uploads/2023/04/Black-Burmese-cat_Oleksandr-Volchanskyi_Shutterstock.jpg"
+					alt="Burmese"
+					style="width:100px;height:100px;">
+	  		</div>
+
+          <p>Havana Brown</p>
+			  <div class="image">
+				  <img src="https://www.thesprucepets.com/thmb/a9sn8R7z6n6XzG7IHMrrHeHc6sg=/2206x0/filters:no_upscale():strip_icc()/GettyImages-1255868930-643370dc1556490ea0a31095602df746.jpg"
+					alt="Havana Brown"
+					style="width:100px;height:100px;">
+	  		</div>
+
+          <p>Colourpoint Shorthair</p>
+			  <div class="image">
+				  <img src="https://www.thehappycatsite.com/wp-content/uploads/2018/04/colorpoint-shorthair-header.jpg"
+					alt="Colourpoint Shorthair"
+					style="width:100px;height:100px;">
+	  		</div>
+			</div>
+
+    <video width="640" height="480" src="https://youtu.be/YBnQwNvYuOI?si=3iNKFxVOb32QD8rT" controls>
+        </video>
+
+		</div>
+	</div>
+</body>
+
+</html>
+
